@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-The main aim of the analysis is to predict the survival status of passengers that boarded the Titanic ship using various features, including age, gender, ticket class, and other variables. The problem statement of the dataset is important because it provides insight into the factors that influenced passenger survival rates during the Titanic disaster.is aimed at providing insights and recommendation
+The main aim of the analysis is to predict the survival status of passengers that boarded the Titanic ship using various features, including age, gender, ticket class, and other variables. The problem statement of the dataset is important because it provides insight into the factors that influenced passenger survival rates during the Titanic disaster.is aimed at providing insights and recommendations.
 
 ## Data Sources
 
